@@ -2,3 +2,4 @@ pinecone-client
 pinecone-text
 pinecone-notebooks
 pinecone
+langchain_elasticsearch

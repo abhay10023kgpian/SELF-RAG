@@ -1,0 +1,3 @@
+//queries where hybrid search performs better than vector search alone
+
+what is number of employees working in org
